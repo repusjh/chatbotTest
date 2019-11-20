@@ -7,6 +7,14 @@
     [
       "husky",
       "/home/ubuntu"
+    ],
+    [
+      "husky",
+      "/home/ubuntu"
+    ],
+    [
+      "husky",
+      "/home/ubuntu"
     ]
   ],
   "_from": "husky@latest",
