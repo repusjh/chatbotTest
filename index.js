@@ -25,4 +25,4 @@ rtm.on('message', function (message){
 		default:
 			rtm.sendMessage('안녕하세요. 영화, 밥, 놀이 중에 말씀해주세요.', channel);
 	}
-});
+});			
