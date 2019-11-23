@@ -12,6 +12,8 @@ rtm.on('message', function (message){
 	var channel = message.channel;
 	var text = message.text;
 	
+	console.log(channel);
+
 	switch (text){
 		case '영화':
 			movie(rtm, channel);
